@@ -1,0 +1,28 @@
+header {
+    background-color: aqua;
+}
+header::after{
+    content: none;
+    display: table;
+    clear: both;
+}
+nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.intro{
+    color: red;
+}
+.class{
+    color: chartreuse;
+}
