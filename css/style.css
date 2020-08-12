@@ -22,7 +22,9 @@ nav a {
 }
 .intro{
     color: red;
+    text-align: center;
 }
 .class{
     color: chartreuse;
+    text-align:center;
 }
