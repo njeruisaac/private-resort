@@ -20,11 +20,18 @@ nav a {
     text-decoration: none;
     text-transform: uppercase;
 }
-.intro{
+.intro {
     color: red;
     text-align: center;
 }
-.class{
+.class {
     color: chartreuse;
     text-align:center;
+}
+.mainbody{
+    background-image: url(../images/atm.jpg);
+    background-size: cover;
+}
+.second{
+    background-color: turquoise;
 }
